@@ -1,0 +1,1 @@
+alert("Meu pastel é mais barato")
